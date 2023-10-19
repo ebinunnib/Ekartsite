@@ -1,0 +1,127 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "productName": "12.5kgx2 Hex Dumbbell ",
+        "categoryId": 2,
+        "discription": "Crafted with six sides, the Barry Hex Dumbbells are an ideal addition for fitness enthusiasts at home. ",
+        "price": "5999",
+        "image": "https://i.postimg.cc/YqcYkXcz/yp9e-Nv64s-RABx-Erjc1s4-Ds-CU.webp",
+        "is available": true,
+        "color": [
+          "black"
+        ],
+        "rating": 4.4,
+        "reviw": 150,
+        "warranty ": "6months"
+      },
+      {
+        "id": 2,
+        "productName": " Nivia Rattle Gym Gloves",
+        "categoryId": 2,
+        "discription": "Nivia Rattle Sports Gloves have 4-Way Stretch Licra that adapts to the shape of the hand. It is an air-conditioned Snug Fit . For the finger gusset, stretch material between the fingers.",
+        "price": "600",
+        "image": "https://i.postimg.cc/DZZHvvXH/6rn-H58-Ah6-H5x-Rjkt-Qy6g-GKt-C.jpg",
+        "is available": true,
+        "color": [
+          "black",
+          "blue",
+          "gray"
+        ],
+        "rating": 4.4,
+        "reviw": 150,
+        "warranty ": "7days"
+      },
+      {
+        "id": 3,
+        "productName": " 10X Athletic Pre-Workout 125g",
+        "categoryId": 3,
+        "discription": "Sugar FreeAmazing TasteVeganNut Free, Soy Free, Gluten FreeInformed Sport Trusted by Athletes10X PREWant a pre workout that doesnt leave you irritable or a jittering a mess Are you turning up to training sessions feeling tired, lethargic or indifferent If so, taking a pre workout may help you get in the right frame of mind for your upcoming intense workout.",
+        "price": "501111",
+        "image": "https://i.postimg.cc/JzChGgKP/81-ZIgcdh-Sd-L-23680.jpg",
+        "is available": true,
+        "rating": 4.4,
+        "reviw": 150,
+        "warranty ": 1
+      },
+      {
+        "id": 4,
+        "productName": " AIRTREE 11 Piece Gym Power Resistance Band Set For Workout,",
+        "categoryId": 2,
+        "discription": "The AIRTREE 11 Piece Gym Power Resistance Band Set is a versatile and durable workout tool that can be used by anyone, regardless of fitness level. With five varying resistance bands.....",
+        "price": "766",
+        "image": "https://i.postimg.cc/52GWXFx1/th.jpg",
+        "is available": true,
+        "rating": 4.4,
+        "reviw": 150,
+        "warranty ": 1
+      },
+      {
+        "id": 5,
+        "productName": "12.5kgx2 Hex Dumbbell ",
+        "categoryId": 3,
+        "discription": "Crafted with six sides, the Barry Hex Dumbbells are an ideal addition for fitness enthusiasts at home. ",
+        "price": "5999",
+        "image": "https://i.postimg.cc/YqcYkXcz/yp9e-Nv64s-RABx-Erjc1s4-Ds-CU.webp",
+        "is available": true,
+        "color": [
+          "black"
+        ],
+        "rating": 4.4,
+        "reviw": 150,
+        "warranty ": "6months"
+      },
+      {
+        "id": 6,
+        "productName": " Nivia Rattle Gym Gloves",
+        "categoryId": 2,
+        "discription": "Nivia Rattle Sports Gloves have 4-Way Stretch Licra that adapts to the shape of the hand. It is an air-conditioned Snug Fit . For the finger gusset, stretch material between the fingers.",
+        "price": "590",
+        "image": "https://i.postimg.cc/DZZHvvXH/6rn-H58-Ah6-H5x-Rjkt-Qy6g-GKt-C.jpg",
+        "is available": true,
+        "color": [
+          "black",
+          "blue",
+          "gray"
+        ],
+        "rating": 4.4,
+        "reviw": 150,
+        "warranty ": "7days"
+      },
+      {
+        "id": 7,
+        "productName": " 10X Athletic Pre-Workout 125g",
+        "categoryId": 3,
+        "discription": "Sugar FreeAmazing TasteVeganNut Free, Soy Free, Gluten FreeInformed Sport Trusted by Athletes10X PREWant a pre workout that doesnt leave you irritable or a jittering a mess Are you turning up to training sessions feeling tired, lethargic or indifferent If so, taking a pre workout may help you get in the right frame of mind for your upcoming intense workout.",
+        "price": "5000",
+        "image": "https://i.postimg.cc/JzChGgKP/81-ZIgcdh-Sd-L-23680.jpg",
+        "is available": true,
+        "rating": 4.4,
+        "reviw": 150,
+        "warranty ": 1
+      },
+      {
+        "id": 8,
+        "productName": " AIRTREE 11 Piece Gym Power Resistance Band Set For Workout,",
+        "categoryId": 2,
+        "discription": "The AIRTREE 11 Piece Gym Power Resistance Band Set is a versatile and durable workout tool that can be used by anyone, regardless of fitness level. With five varying resistance bands.....",
+        "price": "766",
+        "image": "https://i.postimg.cc/52GWXFx1/th.jpg",
+        "is available": true,
+        "rating": 4.4,
+        "reviw": 150,
+        "warranty ": 1
+      },
+      {
+        "id": "4",
+        "productName": "cycle",
+        "categoryId": 1,
+        "discription": "home outdor workouts",
+        "price": "5000",
+        "image": "https://i.postimg.cc/bwbBp5Hc/tb-P8-TLZi-V1h-DJpa-Sa-RHcwse-G.webp",
+        "color": "",
+        "rating": "",
+        "reviw": ""
+      }
+    ]
+  }
